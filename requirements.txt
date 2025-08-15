@@ -1,3 +1,5 @@
 pyarrow
 pymongo
 ipykernel
+pandas
+matplotlib
